@@ -1,1 +1,1 @@
-# linuxsense
+LinuxSense é uma aplicação gráfica para monitoramento e controle de hardware em sistemas Linux, desenvolvida em Python com GTK (PyGObject). Permite visualizar, em tempo real, informações detalhadas sobre CPU e GPU, além de controlar manualmente as ventoinhas do equipamento.
