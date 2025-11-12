@@ -305,7 +305,7 @@ def on_activate(app):
     
     label_modo_fan = builder.get_object("modo-ativado-fan")
     modo = ler_modo_fan()
-    label_modo_fan.set_text(f"Modo ativado: {modo}")
+    label_modo_fan.set_text(f"Mode activated: {modo}")
     
     label_modo_power = builder.get_object("modo-ativado-power")
     modo = ler_modo_power()
